@@ -1,7 +1,11 @@
 import java.util.Scanner;
 
 public class Main {
+    public Main() {
+    }
+
     public static void main(String[] args) {
+
         // ARRAYS
        //  1 - ci tapşırıq
         int[] numbers = {3,1,4,5,2};
@@ -128,5 +132,6 @@ public class Main {
                 }
             }
         }
+        }
     }
-}
+
